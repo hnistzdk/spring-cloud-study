@@ -9,6 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>001-cloud-provider-payment8001</module>
+        <module>002-cloud-consumer-order80</module>
+        <module>cloud-api-commons</module>
     </modules>
 
     <!-- 这是个总的父工程 -->
