@@ -3,18 +3,10 @@
 Ncloud-api-commons/src/main/java/com/zdk/springcloud/entities/CommonResult.java,4\d\4da9f02f96d85ab54532dc8c1eeb61a95e0efa24
 y
 Icloud-api-commons/src/main/java/com/zdk/springcloud/entities/Payment.java,8\e\8ec945dc278063b83debd0687f75473a41e8384a
-Å
-Q004-cloud-eureka-server7002/src/main/java/com/zdk/springcloud/EurekaMain7002.java,4\4\4402399c64ddf68ea1ecda4d1de65d358312d2ce
-ë
-a002-cloud-consumer-order80/src/main/java/com/zdk/springcloud/config/ApplicationContextConfig.java,2\5\2513bfef5b73ffe076a690a10bcb12bfab9adb9b
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 ë
 acloud-provider-payment8002/src/main/java/com/zdk/springcloud/service/impl/PaymentServiceImpl.java,1\e\1e0521aab1664faf57a778c7aea21f46ebca8734
 à
 Xcloud-provider-payment8002/src/main/java/com/zdk/springcloud/service/PaymentService.java,4\7\47daf3763f3323a9c6d3011bddba1e85114ff6ca
-Å
-Qcloud-provider-payment8002/src/main/java/com/zdk/springcloud/PaymentMain8002.java,d\6\d6819df3b0aec93e94c9f25e75931a47ecf2cf09
 é
 ^cloud-provider-payment8002/src/main/java/com/zdk/springcloud/controller/PaymentController.java,6\b\6b0ca2b4ece6ae3363e7d159e577494078091d3a
 y
@@ -25,8 +17,6 @@ Xcloud-consumer-order80/src/main/java/com/zdk/springcloud/controller/OrderContro
 Scloud-provider-payment8001/src/main/java/com/zdk/springcloud/dao/PaymentMapper.java,8\2\82690964104e2a9f3d44849052b52981a59384df
 ç
 ]cloud-consumer-order80/src/main/java/com/zdk/springcloud/config/ApplicationContextConfig.java,9\8\98af95961bed978547f529b16ded4dbd993ee38b
-R
-"cloud-provider-payment8002/pom.xml,d\2\d2bb34221ba1368d3a59155a41c7f7a6ca55a5cc
 Å
 Qcloud-provider-payment8001/src/main/java/com/zdk/springcloud/PaymentMain8001.java,4\2\422e049fa5e9f7ae7c65c2227869e1314bda7965
 é

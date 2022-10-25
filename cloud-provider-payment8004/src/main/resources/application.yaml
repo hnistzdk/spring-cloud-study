@@ -1,0 +1,17 @@
+server:
+  port: 8004
+
+# 服务名称  （必写）
+spring:
+  application:
+    name: cloud-payment-service
+  cloud:
+    zookeeper:
+      connect-string: localhost:2181
+
+mybatis-plus:
+  mapper-locations: classpath:/mapper/*.xml
+  type-aliases-package: com.zdk.springcloud.entities
+
+
+
