@@ -5,6 +5,10 @@ spring:
   application:
     name: cloud-consumer-service
 
+ribbon:
+  ReadTimeout: 1000
+  ConnectTimeout: 1000
+
 
 eureka:
   client:
@@ -17,3 +21,9 @@ eureka:
       # 哪个主机（localhost）的哪个（7001）端口
       #      defaultZone: http://localhost:7001/eureka/
       defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
+
+logging:
+  level:
+    # feign以什么级别监控哪个接口
+    com.zdk.springcloud.service.PaymentFeignService: debug
+
