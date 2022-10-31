@@ -53,7 +53,19 @@ Icloud-consumer-order80/src/main/java/com/zdk/springcloud/OrderMain80.java,8\e\
 Xcloud-consumer-order80/src/main/java/com/zdk/springcloud/controller/OrderController.java,0\7\07c1eb0d791015bd73041184ef3e3c031861ec7d
 N
 cloud-consumer-order80/pom.xml,c\d\cdc81ae39f1af3dd31eef9b2ea88ba55ab9753ee
-T
-$cloud-consumer-feign-order80/pom.xml,5\5\559aa41f7ac5e0dcb9bed13bd4221db941fa3f9c
 à
 Xcloud-provider-payment8001/src/main/java/com/zdk/springcloud/service/PaymentService.java,1\2\12bc7e997b1e98fac6a64110c107dfef6c63086e
+Ñ
+Tcloud-consumer-feign-order80/src/main/java/com/zdk/springcloud/OrderFeignMain80.java,a\3\a39bb5e86152a7c8abdc3efb765eca5fdd657e40
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+ì
+ccloud-consumer-feign-order80/src/main/java/com/zdk/springcloud/controller/OrderFeignController.java,a\8\a861db9ccf3a41513251fd1493657a90dfe9a0c1
+é
+^cloud-provider-payment8001/src/main/java/com/zdk/springcloud/controller/PaymentController.java,f\1\f1c66e0c14d687961b4cbd5cf6a7e12b81dc002c
+Ü
+Vcloud-consumer-feign-order80/src/main/java/com/zdk/springcloud/config/FeignConfig.java,3\3\335ac7d323851e2748351c8c5e936ecdcc218d11
+è
+_cloud-consumer-feign-order80/src/main/java/com/zdk/springcloud/service/PaymentFeignService.java,8\c\8c33a3c5c5846b32a1dde39c25b8db941e3eaf6a
+R
+"cloud-provider-payment8001/pom.xml,e\1\e1c00b376b4713d910b272e50f233467d84d21f5
