@@ -20,6 +20,7 @@
         <module name="001-cloud-provider-payment8001" />
         <module name="002-cloud-consumer-order80" />
         <module name="cloud-consumerzk-order80" />
+        <module name="cloud-consumer-hystrix-dashboard9001" />
         <module name="cloud-consumer-order80" />
         <module name="cloud-provider-hystrix-payment8001" />
         <module name="cloud-provider-consul-payment8006" />
