@@ -41,6 +41,7 @@ public class PaymentController {
             return new CommonResult<>(444, "插入数据库失败");
         }
     }
+
     @GetMapping("/payment/get/{id}")
     public CommonResult<Payment> findPaymentById(@PathVariable("id") Long id) {
         Payment payment = paymentService.getById(id);
@@ -50,6 +51,11 @@ public class PaymentController {
         } else {
             return new CommonResult<>(444, "查询失败， i + " + id, null);
         }
+    }
+
+    @GetMapping("/payment/lb/{id}")
+    public String lb(@PathVariable("id") Long id){
+        return serverPort;
     }
 
     @GetMapping("/payment/discovery")

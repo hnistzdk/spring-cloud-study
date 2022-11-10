@@ -7,8 +7,6 @@ Icloud-api-commons/src/main/java/com/zdk/springcloud/entities/Payment.java,8\e\
 acloud-provider-payment8002/src/main/java/com/zdk/springcloud/service/impl/PaymentServiceImpl.java,1\e\1e0521aab1664faf57a778c7aea21f46ebca8734
 à
 Xcloud-provider-payment8002/src/main/java/com/zdk/springcloud/service/PaymentService.java,4\7\47daf3763f3323a9c6d3011bddba1e85114ff6ca
-é
-^cloud-provider-payment8002/src/main/java/com/zdk/springcloud/controller/PaymentController.java,6\b\6b0ca2b4ece6ae3363e7d159e577494078091d3a
 É
 Scloud-provider-payment8001/src/main/java/com/zdk/springcloud/dao/PaymentMapper.java,8\2\82690964104e2a9f3d44849052b52981a59384df
 Å
@@ -57,8 +55,6 @@ Xcloud-provider-payment8001/src/main/java/com/zdk/springcloud/service/PaymentSer
 Tcloud-consumer-feign-order80/src/main/java/com/zdk/springcloud/OrderFeignMain80.java,a\3\a39bb5e86152a7c8abdc3efb765eca5fdd657e40
 ì
 ccloud-consumer-feign-order80/src/main/java/com/zdk/springcloud/controller/OrderFeignController.java,a\8\a861db9ccf3a41513251fd1493657a90dfe9a0c1
-é
-^cloud-provider-payment8001/src/main/java/com/zdk/springcloud/controller/PaymentController.java,f\1\f1c66e0c14d687961b4cbd5cf6a7e12b81dc002c
 Ü
 Vcloud-consumer-feign-order80/src/main/java/com/zdk/springcloud/config/FeignConfig.java,3\3\335ac7d323851e2748351c8c5e936ecdcc218d11
 è
@@ -77,3 +73,9 @@ fcloud-consumer-feign-hystrix-order80/src/main/java/springcloud/service/PaymentF
 bcloud-consumer-feign-hystrix-order80/src/main/java/springcloud/service/PaymentFallbackService.java,a\1\a19bed5d921e01160560adf0be5c405c4d6b2ea6
 ö
 jcloud-consumer-feign-hystrix-order80/src/main/java/springcloud/controller/OrderFeignHystrixController.java,f\b\fb88058842b25a63c4f88de0bfbbcccb3a7875bf
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+}
+Mcloud-eureka-server7001/src/main/java/com/zdk/springcloud/EurekaMain7001.java,5\e\5eb3e9f27b437625599ffde877f0ca8ef666d8a6
+O
+cloud-eureka-server7001/pom.xml,1\0\102e18b64a275ebd8dfa2168607577b0e641d1d7
