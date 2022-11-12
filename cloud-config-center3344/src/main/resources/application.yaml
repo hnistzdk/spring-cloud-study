@@ -1,0 +1,24 @@
+server:
+  port: 3344
+
+# 服务名称  （必写）
+spring:
+  application:
+    name: cloud-config-center
+
+  cloud:
+    config:
+      server:
+          git:
+            uri: https://gitee.com/hnistzdk/springcloud-config.git #GitHub仓库名称
+            ## (额外)搜索目录  经测试 默认会读取根目录下的文件
+            ## 但如果要读取根目录文件夹中的文件  就必须添加search-paths 否则读取不到
+            search-paths:
+              - config-files
+      ## 读取分支(要读的远程仓库的)
+      label: master1
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
