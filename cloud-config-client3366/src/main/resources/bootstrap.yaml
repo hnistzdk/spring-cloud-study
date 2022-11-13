@@ -1,5 +1,5 @@
 server:
-  port: 3355
+  port: 3366
 
 # 服务名称  （必写）
 spring:
@@ -13,12 +13,14 @@ spring:
       profile: dev #读取后缀mingc
       # 以上3个配置结合即可读取到唯一指定的一个配置
       uri: http://config-3344.com:3344 #配置中心地址
+
   # RabbitMQ相关配置
   rabbitmq:
     host: 106.55.240.216
     port: 5672
     username: admin
     password: 123456
+
 
 eureka:
   client:

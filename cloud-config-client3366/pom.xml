@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-config-center3355</artifactId>
+    <artifactId>cloud-config-client3366</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -52,7 +52,7 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-config</artifactId>
         </dependency>
-<!--        解决No spring.config.import property has been defined报错-->
+        <!--        解决No spring.config.import property has been defined报错-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-bootstrap</artifactId>

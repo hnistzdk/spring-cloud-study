@@ -18,7 +18,21 @@ spring:
       ## 读取分支(要读的远程仓库的)
       label: master1
 
+  # RabbitMQ相关配置
+  rabbitmq:
+    host: 106.55.240.216
+    port: 5672
+    username: admin
+    password: 123456
+
 eureka:
   client:
     service-url:
       defaultZone: http://localhost:7001/eureka/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'bus-refresh'
+
