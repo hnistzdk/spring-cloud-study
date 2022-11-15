@@ -37,8 +37,6 @@ Ncloud-consumer-consul-order80/src/main/java/springcloud/OrderConsulMain80.java
 ]cloud-consumer-consul-order80/src/main/java/springcloud/controller/OrderConsulController.java,2\a\2ac4fd6eaecc4907ffb4734e1a164393e913febd
 P
  cloud-consumerzk-order80/pom.xml,b\d\bd079fa019b24e5030b8da596bfa6ea0f5e3f471
-ç
-]cloud-consumer-order80/src/main/java/com/zdk/springcloud/config/ApplicationContextConfig.java,9\8\98af95961bed978547f529b16ded4dbd993ee38b
 à
 Xcloud-provider-payment8001/src/main/java/com/zdk/springcloud/service/PaymentService.java,1\2\12bc7e997b1e98fac6a64110c107dfef6c63086e
 Ñ
@@ -105,8 +103,6 @@ O
 Scloud-config-client3366/src/main/java/com/zdk/springcloud/ConfigClientMain3366.java,f\3\f3ae2fa31318add9161da9187877e25347018e0a
 ê
 `cloud-config-client3366/src/main/java/com/zdk/springcloud/controller/ConfigClientController.java,d\7\d79c207a240dc2ac843e56ae20c3947f5a6b56c6
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 \
 ,cloud-consumer-feign-hystrix-order80/pom.xml,e\b\ebb8c6d28b118fcb9094b49e8d733984c3d21f47
 í
