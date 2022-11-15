@@ -1,0 +1,6 @@
+
+W
+java:S1874"5Remove this use of "EnableBinding"; it is deprecated.(Ô¯ó ùÿÿÿÿ8¿¨¶¬Ç0
+R
+java:S1874"6Remove this use of "StreamListener"; it is deprecated.(°«òz8À¨¶¬Ç0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Í©½ÿ8Á¨¶¬Ç0
