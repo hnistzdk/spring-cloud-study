@@ -151,8 +151,6 @@ Y
 ]cloud-consumer-order80/src/main/java/com/zdk/springcloud/config/ApplicationContextConfig.java,9\8\98af95961bed978547f529b16ded4dbd993ee38b
 N
 cloud-consumer-order80/pom.xml,c\d\cdc81ae39f1af3dd31eef9b2ea88ba55ab9753ee
-[
-+cloudalibaba-consumer-nacos-order83/pom.xml,d\e\de65435540cdfe08fa0e5b59240d88cb820e1616
 ì
 ccloudalibaba-consumer-nacos-order83/src/main/java/com/zdk/springcloud/alibaba/OrderNacosMain83.java,0\3\0365666f39b3670b3d5a9964f38d1bc48dec9005
 ¢
@@ -161,3 +159,9 @@ rcloudalibaba-consumer-nacos-order83/src/main/java/com/zdk/springcloud/alibaba/c
 rcloudalibaba-consumer-nacos-order83/src/main/java/com/zdk/springcloud/alibaba/controller/OrderNacosController.java,c\f\cffbd626e88924b7ef8306b3994ea1cfa93b1d36
 Y
 )cloudalibaba-provider-payment9002/pom.xml,d\1\d1883d7ea0124c68674a63c729740c7dce809979
+ù
+mcloudalibaba-config-nacos-client3377/src/main/java/com/zdk/springcloud/alibaba/NacosConfigClientMain3377.java,4\4\44f805c8bb3356f68ebf0314e2b954b168d80b9a
+°
+qcloudalibaba-config-nacos-client3377/src/main/java/com/zdk/springcloud/alibaba/config/ConfigClientController.java,1\a\1aa44202c44e5aac5c796290f471b8803d52a33e
+\
+,cloudalibaba-config-nacos-client3377/pom.xml,5\a\5a2d12f60f280ecf1d8639afd6fa3a5be50d513c
