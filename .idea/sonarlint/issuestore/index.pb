@@ -47,8 +47,6 @@ ccloud-consumer-feign-order80/src/main/java/com/zdk/springcloud/controller/Order
 Vcloud-consumer-feign-order80/src/main/java/com/zdk/springcloud/config/FeignConfig.java,3\3\335ac7d323851e2748351c8c5e936ecdcc218d11
 è
 _cloud-consumer-feign-order80/src/main/java/com/zdk/springcloud/service/PaymentFeignService.java,8\c\8c33a3c5c5846b32a1dde39c25b8db941e3eaf6a
-T
-$cloud-consumer-feign-order80/pom.xml,5\5\559aa41f7ac5e0dcb9bed13bd4221db941fa3f9c
 ã
 [cloud-consumer-feign-hystrix-order80/src/main/java/springcloud/OrderFeignHystrixMain80.java,7\c\7ce2a37ef1b9fc101468d9e93a0f07d86db02e7c
 ñ
@@ -165,3 +163,5 @@ mcloudalibaba-config-nacos-client3377/src/main/java/com/zdk/springcloud/alibaba/
 qcloudalibaba-config-nacos-client3377/src/main/java/com/zdk/springcloud/alibaba/config/ConfigClientController.java,1\a\1aa44202c44e5aac5c796290f471b8803d52a33e
 \
 ,cloudalibaba-config-nacos-client3377/pom.xml,5\a\5a2d12f60f280ecf1d8639afd6fa3a5be50d513c
+|
+Lcloudalibaba-provider-payment9002/src/main/java/alibaba/PaymentMain9002.java,1\a\1a2351829f8d268d5e6446bbbb408c847e30b0f3
