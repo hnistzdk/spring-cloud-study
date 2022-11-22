@@ -13,6 +13,12 @@ spring:
         port: 8719
         dashboard: localhost:8080
 
+
 #消费者将要去访问的服务名
 service-url:
   nacos-user-service: http://nacos-payment-provider
+
+# 激活sentinel对feign的支持
+feign:
+  sentinel:
+    enabled: true
