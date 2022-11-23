@@ -1,0 +1,10 @@
+
+`	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³
+t
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+]	java:S125."<This block of commented-out lines of code should be removed.(û« µÿÿÿÿÿ8êÏ¯ËÉ0
+T
+java:S34003"9Remove this method and declare a constant for this value.(­¬‹‘øÿÿÿÿ
+T
+java:S11722">Remove these unused method parameters "p1", "p2", "exception".(º½ 
