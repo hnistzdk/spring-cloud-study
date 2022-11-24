@@ -5,7 +5,7 @@
 <mapper namespace="com.zdk.springcloud.alibaba.mapper.OrderMapper">
 
     <update id="update">
-        update seata_order
+        update t_order
         set status = 1
         where id = #{orderId} and status = #{status};
     </update>

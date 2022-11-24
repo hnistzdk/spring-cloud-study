@@ -13,7 +13,7 @@ import lombok.experimental.Accessors;
 @AllArgsConstructor
 @NoArgsConstructor
 @Accessors(chain = true)
-@TableName("seata_storage")
+@TableName("t_storage")
 public class Storage {
 
     private Long id;

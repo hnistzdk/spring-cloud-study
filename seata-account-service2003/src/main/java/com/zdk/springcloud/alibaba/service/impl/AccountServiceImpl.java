@@ -28,12 +28,8 @@ public class AccountServiceImpl extends ServiceImpl<AccountMapper,Account> imple
     public void decrease(Long userId, BigDecimal money) {
         log.info("------->account-service中扣减账户余额start");
         //模拟超时异常，全局事务回滚
-        try {
-            TimeUnit.SECONDS.sleep(20);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
         this.baseMapper.decrease(userId, money);
+        int a = 10/0;
         log.info("------->account-service中扣减账户余额end");
     }
 }

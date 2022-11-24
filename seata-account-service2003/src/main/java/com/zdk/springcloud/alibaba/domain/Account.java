@@ -17,7 +17,7 @@ import java.math.BigDecimal;
 @AllArgsConstructor
 @NoArgsConstructor
 @Accessors(chain = true)
-@TableName("seata_account")
+@TableName("t_account")
 public class Account {
 
     private Long id;

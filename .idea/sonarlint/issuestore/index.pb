@@ -201,8 +201,6 @@ Ncloud-api-commons/src/main/java/com/zdk/springcloud/entities/CommonResult.java
 Qcloud-provider-payment8001/src/main/java/com/zdk/springcloud/PaymentMain8001.java,4\2\422e049fa5e9f7ae7c65c2227869e1314bda7965
 ƒ
 Scloud-provider-payment8001/src/main/java/com/zdk/springcloud/dao/PaymentMapper.java,8\2\82690964104e2a9f3d44849052b52981a59384df
-ƒ
-Sseata-order-service2001/src/main/java/com/zdk/springcloud/alibaba/domain/Order.java,b\a\ba96475821298d76aad03343d02246add8c25c81
 Š
 Zseata-order-service2001/src/main/java/com/zdk/springcloud/alibaba/domain/CommonResult.java,9\b\9bf8b49645216466ebf4bb4b28b777eead18129d
 ‘
@@ -215,8 +213,6 @@ Xcloud-provider-payment8001/src/main/java/com/zdk/springcloud/service/PaymentSer
 ]seata-order-service2001/src/main/java/com/zdk/springcloud/alibaba/service/StorageService.java,3\9\39f2deeacd46cf18a8b65774b24859a4ca1cdee5
 ‰
 Yseata-order-service2001/src/main/java/com/zdk/springcloud/alibaba/mapper/OrderMapper.java,e\2\e24dda346e258979b8b3730aba5bfc3b34b1e659
-‘
-aseata-order-service2001/src/main/java/com/zdk/springcloud/alibaba/controller/OrderController.java,9\a\9a1c6419b52e0a5eebe3d7297d41fbbb5f10cd6b
 O
 seata-order-service2001/pom.xml,3\6\3639d5dfa6113453d0b3bcac947e7906ce5382f5
 Œ

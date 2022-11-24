@@ -13,7 +13,7 @@
     </resultMap>
 
     <update id="decrease">
-        UPDATE seata_account
+        UPDATE t_account
         SET residue = residue - #{money},
             used    = used + #{money}
         WHERE user_id = #{userId};

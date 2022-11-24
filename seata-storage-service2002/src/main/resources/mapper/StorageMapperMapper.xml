@@ -14,7 +14,7 @@
 
     <update id="decrease">
         UPDATE
-            seata_storage
+            t_storage
         SET used    = used + #{count},
             residue = residue - #{count}
         WHERE product_id = #{productId}
